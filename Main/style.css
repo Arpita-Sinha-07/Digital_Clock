@@ -22,7 +22,7 @@ body{
    place-items: center;
    height: 20vh;
    transform: translate(240px,100px);
-   background-color: aliceblue;
+   background-color: rgb(253, 199, 52);
    border-radius: 15px;
    padding: 10px;
    color: #212121;
